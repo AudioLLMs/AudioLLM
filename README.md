@@ -1,2 +1,2 @@
-# STFM
-Repo for Speech-Text Foundation Models
+# AudioLLMs
+Repo for Audio Large Language Models
