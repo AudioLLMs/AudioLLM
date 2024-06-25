@@ -6,7 +6,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-05 |     SpeechVerse      |      AWS               | SpeechVerse: A Large-scale Generalizable AudioLanguage Model | [Paper](https://arxiv.org/pdf/2405.08295) |
+| 2024-05 |     SpeechVerse      |      AWS               | SpeechVerse: A Large-scale Generalizable Audio Language Model | [Paper](https://arxiv.org/pdf/2405.08295) |
 | 2024-04 |     SALMONN          |      Tsinghua          | SALMONN: Towards Generic Hearing Abilities for Large Language Models | [Paper](https://arxiv.org/pdf/2310.13289.pdf) / [Code](https://github.com/bytedance/SALMONN) / [Demo](https://huggingface.co/spaces/tsinghua-ee/SALMONN-7B-gradio) |
 | 2024-03 |     WavLLM           |      CUHK              | WavLLM: Towards Robust and Adaptive Speech Large Language Model | [Paper](https://arxiv.org/pdf/2404.00656) / [Code](https://github.com/microsoft/SpeechT5/tree/main/WavLLM) |
 | 2024-01 |     Pengi            |      Microsoft         | Pengi: An Audio Language Model for Audio Tasks | [Paper](https://arxiv.org/pdf/2305.11834.pdf) / [Code](https://github.com/microsoft/Pengi) |
@@ -16,4 +16,4 @@ This repository is a curated collection of research papers focused on the develo
 | 2023-06 |     AudioPaLM        |      Google            | AudioPaLM: A Large Language Model that Can Speak and Listen | [Paper](https://arxiv.org/pdf/2306.12925.pdf) / [Demo](https://google-research.github.io/seanet/audiopalm/examples/) |
 | 2023-05 |     VioLA            |      Microsoft         | VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation | [Paper](https://arxiv.org/pdf/2305.16107.pdf) |
 | 2023-05 |     SpeechGPT        |      Fudan             | SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities | [Paper](https://arxiv.org/pdf/2305.11000.pdf) / [Code](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt) / [Demo](https://0nutation.github.io/SpeechGPT.github.io/) |
-| 2023-04 |     AudioGPT         |      Zhejiang Uni      | AudioGPT: Understanding and Generating Speech,Music, Sound, and Talking Head | [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [Code](https://github.com/AIGC-Audio/AudioGPT) |
+| 2023-04 |     AudioGPT         |      Zhejiang Uni      | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [Code](https://github.com/AIGC-Audio/AudioGPT) |
