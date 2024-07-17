@@ -6,6 +6,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-07 |     Qwen2-Audio      |      Alibaba           | Qwen2-Audio Technical Report | [Paper](https://arxiv.org/abs/2407.10759) / [Code](https://github.com/QwenLM/Qwen2-Audio) |
 | 2024-07 |     FunAudioLLM      |      Alibaba               | FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs | [Paper](https://arxiv.org/pdf/2407.04051v3) / [Code](https://github.com/FunAudioLLM) / [Demo](https://fun-audio-llm.github.io/)  |
 | 2024-05 |     SpeechVerse      |      AWS               | SpeechVerse: A Large-scale Generalizable Audio Language Model | [Paper](https://arxiv.org/pdf/2405.08295) |
 | 2024-04 |     SALMONN          |      Tsinghua          | SALMONN: Towards Generic Hearing Abilities for Large Language Models | [Paper](https://arxiv.org/pdf/2310.13289.pdf) / [Code](https://github.com/bytedance/SALMONN) / [Demo](https://huggingface.co/spaces/tsinghua-ee/SALMONN-7B-gradio) |
