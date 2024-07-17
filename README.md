@@ -2,7 +2,7 @@
 
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
-## Papers on Models
+## Models
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
@@ -21,3 +21,11 @@ This repository is a curated collection of research papers focused on the develo
 | 2023-05 |     SpeechGPT        |      Fudan             | SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities | [Paper](https://arxiv.org/pdf/2305.11000.pdf) / [Code](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt) / [Demo](https://0nutation.github.io/SpeechGPT.github.io/) |
 | 2023-04 |     AudioGPT         |      Zhejiang Uni      | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [Code](https://github.com/AIGC-Audio/AudioGPT) |
 | 2022-09 |     AudioLM          |      Google            | AudioLM: a Language Modeling Approach to Audio Generation | [Paper](https://arxiv.org/abs/2209.03143) / [Demo](https://google-research.github.io/seanet/audiolm/examples/) |
+
+
+## Evaluation
+
+|  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
+| :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-06 |     AudioBench       |      A*STAR            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/QwenLM/Qwen2-Audio) |
+
