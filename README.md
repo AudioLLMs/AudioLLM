@@ -27,5 +27,5 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-06 |     AudioBench       |      A*STAR            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/QwenLM/Qwen2-Audio) |
+| 2024-06 |     AudioBench       |      A*STAR            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/AudioLLMs/AudioBench) |
 
