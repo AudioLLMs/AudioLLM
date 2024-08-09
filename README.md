@@ -1,4 +1,4 @@
-# AudioLLMs
+![image](https://github.com/user-attachments/assets/76f4cbb0-06ec-4449-83b7-5491e6dd9712)# AudioLLMs
 
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
@@ -29,4 +29,5 @@ This repository is a curated collection of research papers focused on the develo
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
 | 2024-06 |     AudioBench       |      A*STAR            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/AudioLLMs/AudioBench) |
+| 2024-08 |     MuChoMusic       |      Universitat Pompeu Fabra, etc.      | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
 
