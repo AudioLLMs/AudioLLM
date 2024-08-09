@@ -29,5 +29,5 @@ This repository is a curated collection of research papers focused on the develo
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
 | 2024-06 |     AudioBench       |      A*STAR            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/AudioLLMs/AudioBench) |
-| 2024-08 |     MuChoMusic       |      Universitat Pompeu Fabra, etc.      | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
+| 2024-08 |     MuChoMusic       |      UPF, QMUL, UMG      | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
 
