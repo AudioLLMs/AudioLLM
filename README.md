@@ -6,6 +6,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-09 |     Ultravox         |      fixie-ai           | GitHub Open Source | [Code](https://github.com/fixie-ai/ultravox) |
 | 2024-08 |     Typhoon-Audio    |      Typhoon           | Typhoon-Audio Preview Release | [Page](https://blog.opentyphoon.ai/typhoon-audio-preview-release-6fbb3f938287) |
 | 2024-08 |     USDM             |      SNU               | Integrating Paralinguistics in Speech-Empowered Large Language Models for Natural Conversation | [Paper](https://arxiv.org/pdf/2402.05706) |
 | 2024-07 |     LLaST            |      CUHK-SZ           | LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models | [Paper](https://arxiv.org/pdf/2407.15415) / [Code](https://github.com/openaudiolab/LLaST) |
