@@ -32,6 +32,13 @@ This repository is a curated collection of research papers focused on the develo
 | 2023-04 |     AudioGPT         |      Zhejiang Uni      | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [Code](https://github.com/AIGC-Audio/AudioGPT) |
 | 2022-09 |     AudioLM          |      Google            | AudioLM: a Language Modeling Approach to Audio Generation | [Paper](https://arxiv.org/abs/2209.03143) / [Demo](https://google-research.github.io/seanet/audiolm/examples/) |
 
+## Models (language + audio + other modalities)
+
+|  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
+| :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2023-11 |     CoDi-2           |      UC Berkeley       | CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation | [Paper](https://arxiv.org/pdf/2311.18775) / [Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) / [Demo](https://codi-2.github.io/) |
+| 2023-06 |     Macaw-LLM        |      Tencent           | Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration | [Paper](https://arxiv.org/pdf/2306.09093) / [Code](https://github.com/lyuchenyang/Macaw-LLM) |
+
 ## Methodology
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
