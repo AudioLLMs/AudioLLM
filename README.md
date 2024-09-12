@@ -10,6 +10,7 @@ This repository is a curated collection of research papers focused on the develo
 | 2024-09 |     Ultravox         |      fixie-ai          | GitHub Open Source | [Code](https://github.com/fixie-ai/ultravox) |
 | 2024-08 |     Typhoon-Audio    |      Typhoon           | Typhoon-Audio Preview Release | [Page](https://blog.opentyphoon.ai/typhoon-audio-preview-release-6fbb3f938287) |
 | 2024-08 |     USDM             |      SNU               | Integrating Paralinguistics in Speech-Empowered Large Language Models for Natural Conversation | [Paper](https://arxiv.org/pdf/2402.05706) |
+| 2024-08 |     MooER            |      Moore Threads     | MooER: LLM-based Speech Recognition andTranslation Models from Moore Threads | [Paper](https://arxiv.org/pdf/2408.05101) / [Code](https://github.com/MooreThreads/MooER) |
 | 2024-07 |     LLaST            |      CUHK-SZ           | LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models | [Paper](https://arxiv.org/pdf/2407.15415) / [Code](https://github.com/openaudiolab/LLaST) |
 | 2024-07 |     CompA            |      University of Maryland           | CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models | [Paper](https://arxiv.org/abs/2310.08753) / [Code](https://github.com/Sreyan88/CompA) / [Project](https://sreyan88.github.io/compa_iclr/) |
 | 2024-07 |     Qwen2-Audio      |      Alibaba           | Qwen2-Audio Technical Report | [Paper](https://arxiv.org/abs/2407.10759) / [Code](https://github.com/QwenLM/Qwen2-Audio) |
@@ -44,6 +45,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-09 |       MoWE-Audio     |      A*STAR            | MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders | [Paper](https://www.arxiv.org/pdf/2409.06635) |
 | 2024-06 |       Speech ReaLLM  |      Meta              | Speech ReaLLM – Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time | [Paper](https://arxiv.org/pdf/2406.09569) |
 | 2023-09 |       Segment-level Q-Former      |      Tsinghua      | Connecting Speech Encoder and Large Language Model for ASR | [Paper](https://arxiv.org/pdf/2309.13963) |
 | 2023-07 |       -              |      Meta              | Prompting Large Language Models with Speech Recognition Abilities | [Paper](https://arxiv.org/pdf/2307.11795) |
