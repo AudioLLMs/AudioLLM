@@ -66,3 +66,13 @@ This repository is a curated collection of research papers focused on the develo
 | 2024-08 |     MuChoMusic       |      UPF, QMUL, UMG    | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
 | 2023-09 |     Dynamic-SUPERB   |      NTU-Taiwan, etc. | Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech | [Paper](https://arxiv.org/abs/2309.09510) / [Code](https://github.com/dynamic-superb/dynamic-superb) |
 
+
+## Audio Model
+
+Audio Models are different from Audio Large Language Models.
+
+### Evaluation
+
+|  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
+| :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-09 |     Salmon       |      Hebrew University of Jerusalem | A Suite for Acoustic Language Model Evaluation | [Paper](https://arxiv.org/abs/2409.07437) / [Code](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/) |
