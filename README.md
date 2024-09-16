@@ -45,7 +45,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2023-06 |     AudioBERT        |      Postech           | AudioBERT: Audio Knowledge Augmented Language Model | [Paper]([https://arxiv.org/pdf/2306.09093](https://arxiv.org/pdf/2409.08199) / [Code](https://github.com/HJ-Ok/AudioBERT) |
+| 2023-06 |     AudioBERT        |      Postech           | AudioBERT: Audio Knowledge Augmented Language Model | [Paper](https://arxiv.org/pdf/2409.08199) / [Code](https://github.com/HJ-Ok/AudioBERT) |
 | 2024-09 |     MoWE-Audio       |      A*STAR            | MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders | [Paper](https://www.arxiv.org/pdf/2409.06635) |
 | 2024-06 |     Speech ReaLLM    |      Meta              | Speech ReaLLM – Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time | [Paper](https://arxiv.org/pdf/2406.09569) |
 | 2023-09 |     Segment-level Q-Former      |      Tsinghua      | Connecting Speech Encoder and Large Language Model for ASR | [Paper](https://arxiv.org/pdf/2309.13963) |
