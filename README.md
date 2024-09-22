@@ -6,6 +6,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-07 |     GAMA             |      UMD               | GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities | [Paper](https://arxiv.org/abs/2406.11768) / [Code](https://sreyan88.github.io/gamaaudio/) |
 | 2024-09 |     LLaMA-Omni       |      CAS               | LLaMA-Omni: Seamless Speech Interaction with Large Language Models | [Paper](https://arxiv.org/pdf/2409.06666v1) / [Code](https://github.com/ictnlp/llama-omni) |
 | 2024-09 |     Ultravox         |      fixie-ai          | GitHub Open Source | [Code](https://github.com/fixie-ai/ultravox) |
 | 2024-08 |     Typhoon-Audio    |      Typhoon           | Typhoon-Audio Preview Release | [Page](https://blog.opentyphoon.ai/typhoon-audio-preview-release-6fbb3f938287) |
