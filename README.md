@@ -6,6 +6,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-10 |     DiVA             |      Georgia Tech, Stanford  | Distilling an End-to-End Voice Assistant Without Instruction Training Data | [Paper](https://arxiv.org/pdf/2410.02678) / [Project](https://diva-audio.github.io/) |
 | 2024-09 |     Moshi            |      Kyutai            | Moshi: a speech-text foundation model for real-time dialogue | [Paper](https://arxiv.org/pdf/2410.00037) / [Code](https://github.com/kyutai-labs/moshi) |
 | 2024-09 |     LLaMA-Omni       |      CAS               | LLaMA-Omni: Seamless Speech Interaction with Large Language Models | [Paper](https://arxiv.org/pdf/2409.06666v1) / [Code](https://github.com/ictnlp/llama-omni) |
 | 2024-09 |     Ultravox         |      fixie-ai          | GitHub Open Source | [Code](https://github.com/fixie-ai/ultravox) |
