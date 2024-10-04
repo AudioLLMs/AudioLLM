@@ -6,12 +6,14 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-07 |     GAMA             |      UMD               | GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities | [Paper](https://arxiv.org/abs/2406.11768) / [Code](https://sreyan88.github.io/gamaaudio/) |
+| 2024-09 |     Moshi            |      Kyutai            | Moshi: a speech-text foundation model for real-time dialogue | [Paper](https://arxiv.org/pdf/2410.00037) / [Code](https://github.com/kyutai-labs/moshi) |
 | 2024-09 |     LLaMA-Omni       |      CAS               | LLaMA-Omni: Seamless Speech Interaction with Large Language Models | [Paper](https://arxiv.org/pdf/2409.06666v1) / [Code](https://github.com/ictnlp/llama-omni) |
 | 2024-09 |     Ultravox         |      fixie-ai          | GitHub Open Source | [Code](https://github.com/fixie-ai/ultravox) |
+| 2024-08 |     Mini-Omni        |      Tsinghua          | Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming | [Paper](https://arxiv.org/pdf/2408.16725) / [Code](https://github.com/gpt-omni/mini-omni) |
 | 2024-08 |     Typhoon-Audio    |      Typhoon           | Typhoon-Audio Preview Release | [Page](https://blog.opentyphoon.ai/typhoon-audio-preview-release-6fbb3f938287) |
 | 2024-08 |     USDM             |      SNU               | Integrating Paralinguistics in Speech-Empowered Large Language Models for Natural Conversation | [Paper](https://arxiv.org/pdf/2402.05706) |
 | 2024-08 |     MooER            |      Moore Threads     | MooER: LLM-based Speech Recognition and Translation Models from Moore Threads | [Paper](https://arxiv.org/pdf/2408.05101) / [Code](https://github.com/MooreThreads/MooER) |
+| 2024-07 |     GAMA             |      UMD               | GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities | [Paper](https://arxiv.org/abs/2406.11768) / [Code](https://sreyan88.github.io/gamaaudio/) |
 | 2024-07 |     LLaST            |      CUHK-SZ           | LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models | [Paper](https://arxiv.org/pdf/2407.15415) / [Code](https://github.com/openaudiolab/LLaST) |
 | 2024-07 |     CompA            |      University of Maryland           | CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models | [Paper](https://arxiv.org/abs/2310.08753) / [Code](https://github.com/Sreyan88/CompA) / [Project](https://sreyan88.github.io/compa_iclr/) |
 | 2024-07 |     Qwen2-Audio      |      Alibaba           | Qwen2-Audio Technical Report | [Paper](https://arxiv.org/abs/2407.10759) / [Code](https://github.com/QwenLM/Qwen2-Audio) |
@@ -39,6 +41,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-09 |     EMOVA            |      HKUST             | EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions | [Paper](https://arxiv.org/pdf/2409.18042) / [Demo](https://emova-ollm.github.io/) |
 | 2023-11 |     CoDi-2           |      UC Berkeley       | CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation | [Paper](https://arxiv.org/pdf/2311.18775) / [Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) / [Demo](https://codi-2.github.io/) |
 | 2023-06 |     Macaw-LLM        |      Tencent           | Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration | [Paper](https://arxiv.org/pdf/2306.09093) / [Code](https://github.com/lyuchenyang/Macaw-LLM) |
 
