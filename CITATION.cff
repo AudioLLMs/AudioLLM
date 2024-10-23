@@ -1,10 +1,11 @@
-@software{AudioLLM_Survey,
-author = {AudioLLM Group},
-doi = {10.48550/arXiv.2406.16020},
-month = {10},
-title = {{AudioLLM Survey}},
-url = {https://github.com/AudioLLMs/AudioLLM},
-version = {0.1.0},
-year = {2024}
-}
+cff-version: 0.1.0
+message: "If you refer this github, please cite it as below."
+authors:
+- family-names: "AudioLLM"
+  given-names: "Group"
+title: "AudioLLM Survey"
+version: 0.1.0
+doi: 10.48550/arXiv.2406.16020
+date-released: 2024-10-23
+url: "https://github.com/AudioLLMs/AudioLLM"
 
