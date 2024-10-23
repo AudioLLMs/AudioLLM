@@ -1,8 +1,8 @@
 cff-version: 0.1.0
-message: "If you refer this github, please cite it as below."
+message: "If you refer to this GitHub, please cite it as below."
 authors:
 - family-names: "AudioLLM"
-  given-names: "Group"
+  given-names: "Singapore"
 title: "AudioLLM Survey"
 version: 0.1.0
 doi: 10.48550/arXiv.2406.16020
