@@ -1,11 +1,9 @@
 @software{AudioLLM_Survey,
 author = {AudioLLM Group},
 doi = {10.48550/arXiv.2406.16020},
-month = Oct,
+month = {10},
 title = {{AudioLLM Survey}},
-url = {
-https://github.com/AudioLLMs/AudioLLM}
-,
+url = {https://github.com/AudioLLMs/AudioLLM},
 version = {0.1.0},
 year = {2024}
 }
