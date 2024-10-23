@@ -27,6 +27,7 @@ This repository is a curated collection of research papers focused on the develo
 | 2024-05 |     SpeechVerse      |      AWS               | SpeechVerse: A Large-scale Generalizable Audio Language Model | [Paper](https://arxiv.org/pdf/2405.08295) |
 | 2024-04 |     SALMONN          |      Tsinghua          | SALMONN: Towards Generic Hearing Abilities for Large Language Models | [Paper](https://arxiv.org/pdf/2310.13289.pdf) / [Code](https://github.com/bytedance/SALMONN) / [Demo](https://huggingface.co/spaces/tsinghua-ee/SALMONN-7B-gradio) |
 | 2024-03 |     WavLLM           |      CUHK              | WavLLM: Towards Robust and Adaptive Speech Large Language Model | [Paper](https://arxiv.org/pdf/2404.00656) / [Code](https://github.com/microsoft/SpeechT5/tree/main/WavLLM) |
+| 2024-02 |     LTU              |      MIT               | Listen, Think, and Understand | [Paper](https://arxiv.org/pdf/2305.10790) / [Code](https://github.com/YuanGongND/ltu) |
 | 2024-02 |     SLAM-LLM         |      MoE Key Lab of Artificial Intelligence     | An Embarrassingly Simple Approach for LLM with Strong ASR Capacity | [Paper](https://arxiv.org/pdf/2402.08846) / [Code](https://github.com/X-LANCE/SLAM-LLM) |
 | 2024-01 |     Pengi            |      Microsoft         | Pengi: An Audio Language Model for Audio Tasks | [Paper](https://arxiv.org/pdf/2305.11834.pdf) / [Code](https://github.com/microsoft/Pengi) |
 | 2023-12 |     Qwen-Audio       |      Alibaba           | Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models | [Paper](https://arxiv.org/pdf/2311.07919.pdf) / [Code](https://github.com/QwenLM/Qwen-Audio) / [Demo](https://qwen-audio.github.io/Qwen-Audio/) |
@@ -71,8 +72,8 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-07 |     Audio Hallucination  |      CMU, Microsoft    | Audio Entailment: Assessing Deductive Reasoning for Audio Understanding | [Paper](https://arxiv.org/pdf/2406.08402) / [Code](https://github.com/kuan2jiu99/audio-hallucination) |
 | 2024-07 |     AudioEntailment  |      CMU, Microsoft    | Audio Entailment: Assessing Deductive Reasoning for Audio Understanding | [Paper](https://arxiv.org/pdf/2407.18062) / [Code](https://github.com/microsoft/AudioEntailment) |
+| 2024-06 |     Audio Hallucination  |      NTU-Taiwan    | Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models | [Paper](https://arxiv.org/pdf/2406.08402) / [Code](https://github.com/kuan2jiu99/audio-hallucination) |
 | 2024-06 |     AudioBench       |      A*STAR            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/AudioLLMs/AudioBench) / [LeaderBoard](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard)|
 | 2024-05 |     AIR-Bench        |      ZJU, Alibaba      | AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension | [Paper](https://aclanthology.org/2024.acl-long.109/) / [Code](https://github.com/OFA-Sys/AIR-Bench) |
 | 2024-08 |     MuChoMusic       |      UPF, QMUL, UMG    | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
