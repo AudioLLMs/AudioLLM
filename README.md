@@ -72,9 +72,10 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-10 |     VoiceBench  |      NUS    | VoiceBench: Benchmarking LLM-Based Voice Assistants | [Paper](https://arxiv.org/pdf/2410.17196) / [Code](https://github.com/MatthewCYM/VoiceBench) |
 | 2024-07 |     AudioEntailment  |      CMU, Microsoft    | Audio Entailment: Assessing Deductive Reasoning for Audio Understanding | [Paper](https://arxiv.org/pdf/2407.18062) / [Code](https://github.com/microsoft/AudioEntailment) |
 | 2024-06 |     Audio Hallucination  |      NTU-Taiwan    | Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models | [Paper](https://arxiv.org/pdf/2406.08402) / [Code](https://github.com/kuan2jiu99/audio-hallucination) |
-| 2024-06 |     AudioBench       |      A*STAR            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/AudioLLMs/AudioBench) / [LeaderBoard](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard)|
+| 2024-06 |     AudioBench       |      A*STAR, Singapore            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [Code](https://github.com/AudioLLMs/AudioBench) / [LeaderBoard](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard)|
 | 2024-05 |     AIR-Bench        |      ZJU, Alibaba      | AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension | [Paper](https://aclanthology.org/2024.acl-long.109/) / [Code](https://github.com/OFA-Sys/AIR-Bench) |
 | 2024-08 |     MuChoMusic       |      UPF, QMUL, UMG    | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
 | 2023-09 |     Dynamic-SUPERB   |      NTU-Taiwan, etc. | Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech | [Paper](https://arxiv.org/abs/2309.09510) / [Code](https://github.com/dynamic-superb/dynamic-superb) |
