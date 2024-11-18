@@ -28,7 +28,7 @@ This repository is a curated collection of research papers focused on the develo
 | 2024-04 |     SALMONN          |      Tsinghua          | SALMONN: Towards Generic Hearing Abilities for Large Language Models | [Paper](https://arxiv.org/pdf/2310.13289.pdf) / [Code](https://github.com/bytedance/SALMONN) / [Demo](https://huggingface.co/spaces/tsinghua-ee/SALMONN-7B-gradio) |
 | 2024-03 |     WavLLM           |      CUHK              | WavLLM: Towards Robust and Adaptive Speech Large Language Model | [Paper](https://arxiv.org/pdf/2404.00656) / [Code](https://github.com/microsoft/SpeechT5/tree/main/WavLLM) |
 | 2024-02 |     LTU              |      MIT               | Listen, Think, and Understand | [Paper](https://arxiv.org/pdf/2305.10790) / [Code](https://github.com/YuanGongND/ltu) |
-| 2024-02 |     SLAM-LLM         |      MoE Key Lab of Artificial Intelligence     | An Embarrassingly Simple Approach for LLM with Strong ASR Capacity | [Paper](https://arxiv.org/pdf/2402.08846) / [Code](https://github.com/X-LANCE/SLAM-LLM) |
+| 2024-02 |     SLAM-LLM         |      SJTU              | An Embarrassingly Simple Approach for LLM with Strong ASR Capacity | [Paper](https://arxiv.org/pdf/2402.08846) / [Code](https://github.com/X-LANCE/SLAM-LLM) |
 | 2024-01 |     Pengi            |      Microsoft         | Pengi: An Audio Language Model for Audio Tasks | [Paper](https://arxiv.org/pdf/2305.11834.pdf) / [Code](https://github.com/microsoft/Pengi) |
 | 2023-12 |     Qwen-Audio       |      Alibaba           | Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models | [Paper](https://arxiv.org/pdf/2311.07919.pdf) / [Code](https://github.com/QwenLM/Qwen-Audio) / [Demo](https://qwen-audio.github.io/Qwen-Audio/) |
 | 2023-12 |     LTU-AS           |      MIT               | Joint Audio and Speech Understanding | [Paper](https://arxiv.org/pdf/2309.14405v3.pdf) / [Code](https://github.com/YuanGongND/ltu) / [Demo](https://huggingface.co/spaces/yuangongfdu/ltu-2) |
@@ -90,3 +90,12 @@ Audio Models are different from Audio Large Language Models.
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
 | 2024-09 |     Salmon       |      Hebrew University of Jerusalem | A Suite for Acoustic Language Model Evaluation | [Paper](https://arxiv.org/abs/2409.07437) / [Code](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/) |
+
+
+## Survey
+
+|  Date   |    Key Affiliations    | Paper |    Link     |
+| :-----: | :--------------------: | :---- | :---------: |
+| 2024-10 |      CUHK, Tencent     | Recent Advances in Speech Language Models: A Survey | [Paper](https://arxiv.org/pdf/2410.03751) |
+| 2024-10 |      SJTU, AISpeech    | A Survey on Speech Large Language Models | [Paper](https://arxiv.org/pdf/2410.18908v2) |
+
