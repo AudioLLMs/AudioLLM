@@ -96,6 +96,7 @@ Audio Models are different from Audio Large Language Models.
 
 |  Date   |    Key Affiliations    | Paper |    Link     |
 | :-----: | :--------------------: | :---- | :---------: |
+| 2024-11 |      Zhejiang University | WavChat: A Survey of Spoken Dialogue Models | [Paper](https://arxiv.org/abs/2411.13577) |
 | 2024-10 |      CUHK, Tencent     | Recent Advances in Speech Language Models: A Survey | [Paper](https://arxiv.org/pdf/2410.03751) |
 | 2024-10 |      SJTU, AISpeech    | A Survey on Speech Large Language Models | [Paper](https://arxiv.org/pdf/2410.18908v2) |
 
