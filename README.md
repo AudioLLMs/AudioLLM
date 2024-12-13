@@ -72,6 +72,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-12 |     ADU-Bench  |      Tshinghua, Oxford    | Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models | [Paper](https://arxiv.org/abs/2412.05167) |
 | 2024-10 |     VoiceBench  |      NUS    | VoiceBench: Benchmarking LLM-Based Voice Assistants | [Paper](https://arxiv.org/pdf/2410.17196) / [Code](https://github.com/MatthewCYM/VoiceBench) |
 | 2024-07 |     AudioEntailment  |      CMU, Microsoft    | Audio Entailment: Assessing Deductive Reasoning for Audio Understanding | [Paper](https://arxiv.org/pdf/2407.18062) / [Code](https://github.com/microsoft/AudioEntailment) |
 | 2024-06 |     SD-Eval          |      CUHK, Bytedance   | SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words | [Paper](https://arxiv.org/pdf/2406.13340) / [Code](https://github.com/amphionspace/SD-Eval) |
