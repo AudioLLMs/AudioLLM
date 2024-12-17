@@ -1,5 +1,14 @@
 # AudioLLMs
 
+## Table of Contents
+- [Models](#models)
+- [Methodology](#methodology)
+- [Evaluation](#evaluation)
+- [Survey Papers](#survey-papers)
+- [Multimodality Models (language + audio + other modalities)](#multimodality-models-language--audio--other-modalities)
+- [Adversarial Attacks](#adversarial-attacks)
+
+## Introduction
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
 ### Models
@@ -69,6 +78,14 @@ This repository is a curated collection of research papers focused on the develo
 | 2024-08 |     MuChoMusic       |      UPF, QMUL, UMG    | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
 | 2023-09 |     Dynamic-SUPERB   |      NTU-Taiwan, etc. | Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech | [Paper](https://arxiv.org/abs/2309.09510) / [Code](https://github.com/dynamic-superb/dynamic-superb) |
 
+### Survey Papers
+
+|  Date   |    Key Affiliations    | Paper |    Link     |
+| :-----: | :--------------------: | :---- | :---------: |
+| 2024-11 |      Zhejiang University | WavChat: A Survey of Spoken Dialogue Models | [Paper](https://arxiv.org/abs/2411.13577) |
+| 2024-10 |      CUHK, Tencent     | Recent Advances in Speech Language Models: A Survey | [Paper](https://arxiv.org/pdf/2410.03751) |
+| 2024-10 |      SJTU, AISpeech    | A Survey on Speech Large Language Models | [Paper](https://arxiv.org/pdf/2410.18908v2) |
+
 ### Multimodality Models (language + audio + other modalities)
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
@@ -82,12 +99,4 @@ This repository is a curated collection of research papers focused on the develo
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
 | 2024-05 |     VoiceJailbreak   |      CISPA             | Voice Jailbreak Attacks Against GPT-4o | [Paper](https://arxiv.org/pdf/2405.19103) |
-
-### Survey Papers
-
-|  Date   |    Key Affiliations    | Paper |    Link     |
-| :-----: | :--------------------: | :---- | :---------: |
-| 2024-11 |      Zhejiang University | WavChat: A Survey of Spoken Dialogue Models | [Paper](https://arxiv.org/abs/2411.13577) |
-| 2024-10 |      CUHK, Tencent     | Recent Advances in Speech Language Models: A Survey | [Paper](https://arxiv.org/pdf/2410.03751) |
-| 2024-10 |      SJTU, AISpeech    | A Survey on Speech Large Language Models | [Paper](https://arxiv.org/pdf/2410.18908v2) |
 
