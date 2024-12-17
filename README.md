@@ -89,6 +89,8 @@ This repository is a curated collection of research papers focused on the develo
 
 ### Multimodality Models (language + audio + other modalities)
 
+To list out some multimodal models that could process audio (speech, non-speech, music, audio-scene, sound, etc.) and text inputs.
+
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
 | 2024-09 |     EMOVA            |      HKUST             | EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions | [Paper](https://arxiv.org/pdf/2409.18042) / [Demo](https://emova-ollm.github.io/) |
