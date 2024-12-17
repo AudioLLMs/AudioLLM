@@ -15,7 +15,7 @@ This repository is a curated collection of research papers focused on the develo
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-12 |     MERaLiON-AudioLLM     |   I2R, A*STAR, Singapore              | MERaLiON-AudioLLM: Technical Report | [Paper](https://arxiv.org/abs/2412.09818) / [Project](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION) |
+| 2024-12 |     MERaLiON-AudioLLM     |   I2R, A*STAR, Singapore              | MERaLiON-AudioLLM: Technical Report | [Paper](https://arxiv.org/abs/2412.09818) / [HF Model](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION) |
 | 2024-10 |     SPIRIT LM        |      Meta              | SPIRIT LM: Interleaved Spoken and Written Language Model | [Paper](https://arxiv.org/pdf/2402.05755) / [Code](https://github.com/facebookresearch/spiritlm) / [Project](https://speechbot.github.io/spiritlm/) |
 | 2024-10 |     DiVA             |      Georgia Tech, Stanford  | Distilling an End-to-End Voice Assistant Without Instruction Training Data | [Paper](https://arxiv.org/pdf/2410.02678) / [Project](https://diva-audio.github.io/) |
 | 2024-09 |     Moshi            |      Kyutai            | Moshi: a speech-text foundation model for real-time dialogue | [Paper](https://arxiv.org/pdf/2410.00037) / [Code](https://github.com/kyutai-labs/moshi) |
