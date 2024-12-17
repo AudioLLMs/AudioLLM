@@ -2,7 +2,7 @@
 
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
-## Models
+### Models
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
@@ -41,15 +41,7 @@ This repository is a curated collection of research papers focused on the develo
 | 2023-04 |     AudioGPT         |      Zhejiang Uni      | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [Code](https://github.com/AIGC-Audio/AudioGPT) |
 | 2022-09 |     AudioLM          |      Google            | AudioLM: a Language Modeling Approach to Audio Generation | [Paper](https://arxiv.org/abs/2209.03143) / [Demo](https://google-research.github.io/seanet/audiolm/examples/) |
 
-## Models (language + audio + other modalities)
-
-|  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
-| :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-09 |     EMOVA            |      HKUST             | EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions | [Paper](https://arxiv.org/pdf/2409.18042) / [Demo](https://emova-ollm.github.io/) |
-| 2023-11 |     CoDi-2           |      UC Berkeley       | CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation | [Paper](https://arxiv.org/pdf/2311.18775) / [Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) / [Demo](https://codi-2.github.io/) |
-| 2023-06 |     Macaw-LLM        |      Tencent           | Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration | [Paper](https://arxiv.org/pdf/2306.09093) / [Code](https://github.com/lyuchenyang/Macaw-LLM) |
-
-## Methodology
+### Methodology
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
@@ -62,18 +54,13 @@ This repository is a curated collection of research papers focused on the develo
 | 2023-09 |     Segment-level Q-Former      |      Tsinghua      | Connecting Speech Encoder and Large Language Model for ASR | [Paper](https://arxiv.org/pdf/2309.13963) |
 | 2023-07 |     -                |      Meta              | Prompting Large Language Models with Speech Recognition Abilities | [Paper](https://arxiv.org/pdf/2307.11795) |
 
-## Adversarial Attacks
-
-|  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
-| :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-05 |     VoiceJailbreak   |      CISPA             | Voice Jailbreak Attacks Against GPT-4o | [Paper](https://arxiv.org/pdf/2405.19103) |
-
-## Evaluation
+### Evaluation
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
 | 2024-12 |     ADU-Bench  |      Tshinghua, Oxford    | Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models | [Paper](https://arxiv.org/abs/2412.05167) |
 | 2024-10 |     VoiceBench  |      NUS    | VoiceBench: Benchmarking LLM-Based Voice Assistants | [Paper](https://arxiv.org/pdf/2410.17196) / [Code](https://github.com/MatthewCYM/VoiceBench) |
+| 2024-09 |     Salmon       |      Hebrew University of Jerusalem | A Suite for Acoustic Language Model Evaluation | [Paper](https://arxiv.org/abs/2409.07437) / [Code](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/) |
 | 2024-07 |     AudioEntailment  |      CMU, Microsoft    | Audio Entailment: Assessing Deductive Reasoning for Audio Understanding | [Paper](https://arxiv.org/pdf/2407.18062) / [Code](https://github.com/microsoft/AudioEntailment) |
 | 2024-06 |     SD-Eval          |      CUHK, Bytedance   | SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words | [Paper](https://arxiv.org/pdf/2406.13340) / [Code](https://github.com/amphionspace/SD-Eval) |
 | 2024-06 |     Audio Hallucination  |      NTU-Taiwan    | Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models | [Paper](https://arxiv.org/pdf/2406.08402) / [Code](https://github.com/kuan2jiu99/audio-hallucination) |
@@ -82,19 +69,21 @@ This repository is a curated collection of research papers focused on the develo
 | 2024-08 |     MuChoMusic       |      UPF, QMUL, UMG    | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [Code](https://github.com/mulab-mir/muchomusic) |
 | 2023-09 |     Dynamic-SUPERB   |      NTU-Taiwan, etc. | Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech | [Paper](https://arxiv.org/abs/2309.09510) / [Code](https://github.com/dynamic-superb/dynamic-superb) |
 
+### Multimodality Models (language + audio + other modalities)
 
-## Audio Model
+|  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
+| :-----: | :------------------: | :--------------------: | :---- | :---------: |
+| 2024-09 |     EMOVA            |      HKUST             | EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions | [Paper](https://arxiv.org/pdf/2409.18042) / [Demo](https://emova-ollm.github.io/) |
+| 2023-11 |     CoDi-2           |      UC Berkeley       | CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation | [Paper](https://arxiv.org/pdf/2311.18775) / [Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) / [Demo](https://codi-2.github.io/) |
+| 2023-06 |     Macaw-LLM        |      Tencent           | Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration | [Paper](https://arxiv.org/pdf/2306.09093) / [Code](https://github.com/lyuchenyang/Macaw-LLM) |
 
-Audio Models are different from Audio Large Language Models.
-
-### Evaluation
+### Adversarial Attacks
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-09 |     Salmon       |      Hebrew University of Jerusalem | A Suite for Acoustic Language Model Evaluation | [Paper](https://arxiv.org/abs/2409.07437) / [Code](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/) |
+| 2024-05 |     VoiceJailbreak   |      CISPA             | Voice Jailbreak Attacks Against GPT-4o | [Paper](https://arxiv.org/pdf/2405.19103) |
 
-
-## Survey
+### Survey Papers
 
 |  Date   |    Key Affiliations    | Paper |    Link     |
 | :-----: | :--------------------: | :---- | :---------: |
