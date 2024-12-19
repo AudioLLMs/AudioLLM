@@ -18,6 +18,10 @@ This repository is a curated collection of research papers focused on the develo
   - MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models
   - [Paper](https://arxiv.org/abs/2412.09818) / [HF Model](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION)
 
+- `【2024-09】-【MoWE-Audio】-【A*STAR】`
+  - MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders
+  - [Paper](https://www.arxiv.org/pdf/2409.06635)
+
 - `【2024-10】-【SPIRIT LM】-【Meta】`
   - SPIRIT LM: Interleaved Spoken and Written Language Model
   - [Paper](https://arxiv.org/pdf/2402.05755) / [Project](https://speechbot.github.io/spiritlm/) / [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/spiritlm?style=social)](https://github.com/facebookresearch/spiritlm) 
@@ -29,10 +33,6 @@ This repository is a curated collection of research papers focused on the develo
 - `【2024-10】-【SpeechEmotionLlama】-【MIT, Meta】`
   - Frozen Large Language Models Can Perceive Paralinguistic Aspects of Speech
   - [Paper](https://arxiv.org/pdf/2410.01162)
-
-- `【2024-09】-【MoWE-Audio】-【A*STAR】`
-  - MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders
-  - [Paper](https://www.arxiv.org/pdf/2409.06635)
  
 - `【2024-09】-【Moshi】-【Kyutai】`
   - Moshi: a speech-text foundation model for real-time dialogue
