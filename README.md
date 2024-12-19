@@ -10,7 +10,10 @@
 ## Introduction
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
-### Models and Methods
+---
+---
+
+## Models and Methods
 ```
 【Date】【Name】【Affiliations】【Paper】【Link】
 ```
@@ -142,8 +145,9 @@ This repository is a curated collection of research papers focused on the develo
   - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
   - [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [![GitHub stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)](https://github.com/AIGC-Audio/AudioGPT)
 
-
-### Evaluation
+---
+---
+## Evaluation
 
 ```
 【Date】【Name】【Affiliations】【Paper】【Link】
@@ -189,8 +193,9 @@ This repository is a curated collection of research papers focused on the develo
   - Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech
   - [Paper](https://arxiv.org/abs/2309.09510) / [![GitHub stars](https://img.shields.io/github/stars/dynamic-superb/dynamic-superb?style=social)](https://github.com/dynamic-superb/dynamic-superb)
 
-
-### Survey Papers
+---
+---
+## Survey Papers
 
 - `【2024-11】-【Zhejiang University】`
   - WavChat: A Survey of Spoken Dialogue Models
@@ -204,8 +209,9 @@ This repository is a curated collection of research papers focused on the develo
   - A Survey on Speech Large Language Models
   - [Paper](https://arxiv.org/pdf/2410.18908v2)
 
-
-### Multimodality Models (language + audio + other modalities)
+---
+---
+## Multimodality Models (language + audio + other modalities)
 
 To list out some multimodal models that could process audio (speech, non-speech, music, audio-scene, sound, etc.) and text inputs.
 
@@ -215,7 +221,9 @@ To list out some multimodal models that could process audio (speech, non-speech,
 | 2023-11 |     CoDi-2           |      UC Berkeley       | CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation | [Paper](https://arxiv.org/pdf/2311.18775) / [Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2) / [Demo](https://codi-2.github.io/) |
 | 2023-06 |     Macaw-LLM        |      Tencent           | Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration | [Paper](https://arxiv.org/pdf/2306.09093) / [Code](https://github.com/lyuchenyang/Macaw-LLM) |
 
-### Adversarial Attacks
+---
+---
+## Adversarial Attacks
 
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
