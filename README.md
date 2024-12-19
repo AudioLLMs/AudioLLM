@@ -1,7 +1,7 @@
 # AudioLLMs
 
 ## Table of Contents
-- [Models](#models)
+- [Models and Methods](#models-and-methods)
 - [Methodology](#methodology)
 - [Evaluation](#evaluation)
 - [Survey Papers](#survey-papers)
@@ -11,19 +11,24 @@
 ## Introduction
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
-### Models
+### Models and Methods
 ```
-【Date】【Model】【Affiliations】【Paper】【Link】
+【Date】【Name】【Affiliations】【Paper】【Link】
 ```
 - `【2024-12】-【MERaLiON-AudioLLM】-【I2R, A*STAR, Singapore】`
   - MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models
   - [Paper](https://arxiv.org/abs/2412.09818) / [HF Model](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION)
+- `【2024-10】-【SPIRIT LM】-【Meta】`
+  - SPIRIT LM: Interleaved Spoken and Written Language Model
+  - [Paper](https://arxiv.org/pdf/2402.05755) / [Project](https://speechbot.github.io/spiritlm/) / [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/spiritlm?style=social)](https://github.com/facebookresearch/spiritlm) 
+- `【2024-10】-【DiVA】-【Georgia Tech, Stanford】`
+  - Distilling an End-to-End Voice Assistant Without Instruction Training Data
+  - [Paper](https://arxiv.org/pdf/2410.02678) / [Project](https://diva-audio.github.io/)
+
 
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-10 |     SPIRIT LM        |      Meta              | SPIRIT LM: Interleaved Spoken and Written Language Model | [Paper](https://arxiv.org/pdf/2402.05755) / [Code](https://github.com/facebookresearch/spiritlm) / [Project](https://speechbot.github.io/spiritlm/) |
-| 2024-10 |     DiVA             |      Georgia Tech, Stanford  | Distilling an End-to-End Voice Assistant Without Instruction Training Data | [Paper](https://arxiv.org/pdf/2410.02678) / [Project](https://diva-audio.github.io/) |
 | 2024-09 |     Moshi            |      Kyutai            | Moshi: a speech-text foundation model for real-time dialogue | [Paper](https://arxiv.org/pdf/2410.00037) / [Code](https://github.com/kyutai-labs/moshi) |
 | 2024-09 |     LLaMA-Omni       |      CAS               | LLaMA-Omni: Seamless Speech Interaction with Large Language Models | [Paper](https://arxiv.org/pdf/2409.06666v1) / [Code](https://github.com/ictnlp/llama-omni) |
 | 2024-09 |     Ultravox         |      fixie-ai          | GitHub Open Source | [Code](https://github.com/fixie-ai/ultravox) |
