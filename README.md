@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Models and Methods](#models-and-methods)
-- [Methodology](#methodology)
 - [Evaluation](#evaluation)
 - [Survey Papers](#survey-papers)
 - [Multimodality Models (language + audio + other modalities)](#multimodality-models-language--audio--other-modalities)
@@ -144,32 +143,67 @@ This repository is a curated collection of research papers focused on the develo
   - [Paper](https://arxiv.org/pdf/2304.12995.pdf) / [![GitHub stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)](https://github.com/AIGC-Audio/AudioGPT)
 
 
-
-
-
-
 ### Evaluation
 
-|  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
-| :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-12 |     ADU-Bench  |      Tshinghua, Oxford    | Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models | [Paper](https://arxiv.org/abs/2412.05167) |
-| 2024-10 |     VoiceBench  |      NUS    | VoiceBench: Benchmarking LLM-Based Voice Assistants | [Paper](https://arxiv.org/pdf/2410.17196) / [![GitHub stars](https://img.shields.io/github/stars/MatthewCYM/VoiceBench?style=social)](https://github.com/MatthewCYM/VoiceBench) |
-| 2024-09 |     Salmon       |      Hebrew University of Jerusalem | A Suite for Acoustic Language Model Evaluation | [Paper](https://arxiv.org/abs/2409.07437) / [Code](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/) |
-| 2024-07 |     AudioEntailment  |      CMU, Microsoft    | Audio Entailment: Assessing Deductive Reasoning for Audio Understanding | [Paper](https://arxiv.org/pdf/2407.18062) / [![GitHub stars](https://img.shields.io/github/stars/microsoft/AudioEntailment?style=social)](https://github.com/microsoft/AudioEntailment) |
-| 2024-06 |     SD-Eval          |      CUHK, Bytedance   | SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words | [Paper](https://arxiv.org/pdf/2406.13340) / [![GitHub stars](https://img.shields.io/github/stars/amphionspace/SD-Eval?style=social)](https://github.com/amphionspace/SD-Eval) |
-| 2024-06 |     Audio Hallucination  |      NTU-Taiwan    | Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models | [Paper](https://arxiv.org/pdf/2406.08402) / [![GitHub stars](https://img.shields.io/github/stars/kuan2jiu99/audio-hallucination?style=social)](https://github.com/kuan2jiu99/audio-hallucination) |
-| 2024-06 |     AudioBench       |      A*STAR, Singapore            | AudioBench: A Universal Benchmark for Audio Large Language Models | [Paper](https://arxiv.org/abs/2406.16020) / [LeaderBoard](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard) / [![GitHub stars](https://img.shields.io/github/stars/AudioLLMs/AudioBench?style=social)](https://github.com/AudioLLMs/AudioBench)  |
-| 2024-05 |     AIR-Bench        |      ZJU, Alibaba      | AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension | [Paper](https://aclanthology.org/2024.acl-long.109/) / [![GitHub stars](https://img.shields.io/github/stars/OFA-Sys/AIR-Bench?style=social)](https://github.com/OFA-Sys/AIR-Bench) |
-| 2024-08 |     MuChoMusic       |      UPF, QMUL, UMG    | MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models | [Paper](https://arxiv.org/abs/2408.01337) / [![GitHub stars](https://img.shields.io/github/stars/mulab-mir/muchomusic?style=social)](https://github.com/mulab-mir/muchomusic) |
-| 2023-09 |     Dynamic-SUPERB   |      NTU-Taiwan, etc. | Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech | [Paper](https://arxiv.org/abs/2309.09510) / [![GitHub stars](https://img.shields.io/github/stars/dynamic-superb/dynamic-superb?style=social)](https://github.com/dynamic-superb/dynamic-superb) |
+```
+【Date】【Name】【Affiliations】【Paper】【Link】
+```
+
+- `【2024-06】-【AudioBench】-【A*STAR, Singapore】`
+  - AudioBench: A Universal Benchmark for Audio Large Language Models
+  - [Paper](https://arxiv.org/abs/2406.16020) / [LeaderBoard](https://huggingface.co/spaces/AudioLLMs/AudioBench-Leaderboard) / [![GitHub stars](https://img.shields.io/github/stars/AudioLLMs/AudioBench?style=social)](https://github.com/AudioLLMs/AudioBench)
+
+- `【2024-12】-【ADU-Bench】-【Tsinghua, Oxford】`
+  - Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models
+  - [Paper](https://arxiv.org/abs/2412.05167)
+
+- `【2024-10】-【VoiceBench】-【NUS】`
+  - VoiceBench: Benchmarking LLM-Based Voice Assistants
+  - [Paper](https://arxiv.org/pdf/2410.17196) / [![GitHub stars](https://img.shields.io/github/stars/MatthewCYM/VoiceBench?style=social)](https://github.com/MatthewCYM/VoiceBench)
+
+- `【2024-09】-【Salmon】-【Hebrew University of Jerusalem】`
+  - A Suite for Acoustic Language Model Evaluation
+  - [Paper](https://arxiv.org/abs/2409.07437) / [Code](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/)
+
+- `【2024-07】-【AudioEntailment】-【CMU, Microsoft】`
+  - Audio Entailment: Assessing Deductive Reasoning for Audio Understanding
+  - [Paper](https://arxiv.org/pdf/2407.18062) / [![GitHub stars](https://img.shields.io/github/stars/microsoft/AudioEntailment?style=social)](https://github.com/microsoft/AudioEntailment)
+
+- `【2024-06】-【SD-Eval】-【CUHK, Bytedance】`
+  - SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words
+  - [Paper](https://arxiv.org/pdf/2406.13340) / [![GitHub stars](https://img.shields.io/github/stars/amphionspace/SD-Eval?style=social)](https://github.com/amphionspace/SD-Eval)
+
+- `【2024-06】-【Audio Hallucination】-【NTU-Taiwan】`
+  - Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models
+  - [Paper](https://arxiv.org/pdf/2406.08402) / [![GitHub stars](https://img.shields.io/github/stars/kuan2jiu99/audio-hallucination?style=social)](https://github.com/kuan2jiu99/audio-hallucination)
+
+- `【2024-05】-【AIR-Bench】-【ZJU, Alibaba】`
+  - AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
+  - [Paper](https://aclanthology.org/2024.acl-long.109/) / [![GitHub stars](https://img.shields.io/github/stars/OFA-Sys/AIR-Bench?style=social)](https://github.com/OFA-Sys/AIR-Bench)
+
+- `【2024-08】-【MuChoMusic】-【UPF, QMUL, UMG】`
+  - MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models
+  - [Paper](https://arxiv.org/abs/2408.01337) / [![GitHub stars](https://img.shields.io/github/stars/mulab-mir/muchomusic?style=social)](https://github.com/mulab-mir/muchomusic)
+
+- `【2023-09】-【Dynamic-SUPERB】-【NTU-Taiwan, etc.】`
+  - Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech
+  - [Paper](https://arxiv.org/abs/2309.09510) / [![GitHub stars](https://img.shields.io/github/stars/dynamic-superb/dynamic-superb?style=social)](https://github.com/dynamic-superb/dynamic-superb)
+
 
 ### Survey Papers
 
-|  Date   |    Key Affiliations    | Paper |    Link     |
-| :-----: | :--------------------: | :---- | :---------: |
-| 2024-11 |      Zhejiang University | WavChat: A Survey of Spoken Dialogue Models | [Paper](https://arxiv.org/abs/2411.13577) |
-| 2024-10 |      CUHK, Tencent     | Recent Advances in Speech Language Models: A Survey | [Paper](https://arxiv.org/pdf/2410.03751) |
-| 2024-10 |      SJTU, AISpeech    | A Survey on Speech Large Language Models | [Paper](https://arxiv.org/pdf/2410.18908v2) |
+- `【2024-11】-【Zhejiang University】`
+  - WavChat: A Survey of Spoken Dialogue Models
+  - [Paper](https://arxiv.org/abs/2411.13577)
+
+- `【2024-10】-【CUHK, Tencent】`
+  - Recent Advances in Speech Language Models: A Survey
+  - [Paper](https://arxiv.org/pdf/2410.03751)
+
+- `【2024-10】-【SJTU, AISpeech】`
+  - A Survey on Speech Large Language Models
+  - [Paper](https://arxiv.org/pdf/2410.18908v2)
+
 
 ### Multimodality Models (language + audio + other modalities)
 
