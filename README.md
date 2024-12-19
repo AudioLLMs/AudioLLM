@@ -12,10 +12,16 @@
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
 ### Models
+```
+【Date】【Model】【Affiliations】【Paper】【Link】
+```
+- `【2024-12】-【MERaLiON-AudioLLM】-【I2R, A*STAR, Singapore】`
+  - MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models
+  - [Paper](https://arxiv.org/abs/2412.09818) / [HF Model](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION)
+
 
 |  Date   |       Model          |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
-| 2024-12 |     MERaLiON-AudioLLM     |   I2R, A*STAR, Singapore              | MERaLiON-AudioLLM: Technical Report | [Paper](https://arxiv.org/abs/2412.09818) / [HF Model](https://huggingface.co/MERaLiON/MERaLiON-AudioLLM-Whisper-SEA-LION) |
 | 2024-10 |     SPIRIT LM        |      Meta              | SPIRIT LM: Interleaved Spoken and Written Language Model | [Paper](https://arxiv.org/pdf/2402.05755) / [Code](https://github.com/facebookresearch/spiritlm) / [Project](https://speechbot.github.io/spiritlm/) |
 | 2024-10 |     DiVA             |      Georgia Tech, Stanford  | Distilling an End-to-End Voice Assistant Without Instruction Training Data | [Paper](https://arxiv.org/pdf/2410.02678) / [Project](https://diva-audio.github.io/) |
 | 2024-09 |     Moshi            |      Kyutai            | Moshi: a speech-text foundation model for real-time dialogue | [Paper](https://arxiv.org/pdf/2410.00037) / [Code](https://github.com/kyutai-labs/moshi) |
@@ -102,4 +108,9 @@ To list out some multimodal models that could process audio (speech, non-speech,
 |  Date   |       Name           |    Key Affiliations    | Paper |    Link     |
 | :-----: | :------------------: | :--------------------: | :---- | :---------: |
 | 2024-05 |     VoiceJailbreak   |      CISPA             | Voice Jailbreak Attacks Against GPT-4o | [Paper](https://arxiv.org/pdf/2405.19103) |
+
+
+
+#### TODO
+- Update the table to text format to allow more structured display
 
