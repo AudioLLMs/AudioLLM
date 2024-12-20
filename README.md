@@ -1,5 +1,7 @@
 # AudioLLMs
 
+# Find some interesting work or want your work to be on-board? Raise an Issue or Pull Requests! :)
+
 ## Table of Contents
 - [Models and Methods](#models-and-methods)
 - [Evaluation](#evaluation)
