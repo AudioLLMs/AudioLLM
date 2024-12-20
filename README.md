@@ -38,8 +38,12 @@ This repository is a curated collection of research papers focused on the develo
   - [Paper](https://arxiv.org/pdf/2410.01162)
  
 - `【2024-09】-【Moshi】-【Kyutai】`
+  - Developing Instruction-Following Speech Language Model Without Speech Instruction-Tuning Data
+  - [Paper](https://arxiv.org/pdf/2409.20007) / [![GitHub stars](https://img.shields.io/github/stars/kyutai-labs/moshi?style=social)](https://github.com/kyutai-labs/moshi)
+
+- `【2024-09】-【DeSTA2】-【NTU Taiwan】`
   - Moshi: a speech-text foundation model for real-time dialogue
-  - [Paper](https://arxiv.org/pdf/2410.00037) / [![GitHub stars](https://img.shields.io/github/stars/kyutai-labs/moshi?style=social)](https://github.com/kyutai-labs/moshi)
+  - [Paper](https://arxiv.org/pdf/2410.00037) / [![GitHub stars](https://img.shields.io/github/stars/kehanlu/DeSTA2?style=social)](https://github.com/kehanlu/DeSTA2)
 
 - `【2024-09】-【LLaMA-Omni】-【CAS】`
   - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
