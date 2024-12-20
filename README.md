@@ -25,6 +25,10 @@ This repository is a curated collection of research papers focused on the develo
   - MoWE-Audio: Multitask AudioLLMs with Mixture of Weak Encoders
   - [Paper](https://www.arxiv.org/pdf/2409.06635)
 
+- `【2024-11】-【NTU, Taiwan】`
+  - Building a Taiwanese Mandarin Spoken Language Model: A First Attempt
+  - [Paper](https://arxiv.org/pdf/2411.07111)
+
 - `【2024-10】-【SPIRIT LM】-【Meta】`
   - SPIRIT LM: Interleaved Spoken and Written Language Model
   - [Paper](https://arxiv.org/pdf/2402.05755) / [Project](https://speechbot.github.io/spiritlm/) / [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/spiritlm?style=social)](https://github.com/facebookresearch/spiritlm) 
