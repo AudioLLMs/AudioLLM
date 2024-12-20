@@ -93,7 +93,7 @@ This repository is a curated collection of research papers focused on the develo
   - FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs
   - [Paper](https://arxiv.org/pdf/2407.04051v3) / [![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM?style=social)](https://github.com/FunAudioLLM) / [Demo](https://fun-audio-llm.github.io/)
 
-- `【2024-07】-【-】-【NTU-Taiwan, Meta】`
+- `【2024-07】-【NTU-Taiwan, Meta】`
   - Investigating Decoder-only Large Language Models for Speech-to-text Translation
   - [Paper](https://arxiv.org/pdf/2407.03169)
 
@@ -141,7 +141,7 @@ This repository is a curated collection of research papers focused on the develo
   - Connecting Speech Encoder and Large Language Model for ASR
   - [Paper](https://arxiv.org/pdf/2309.13963)
 
-- `【2023-07】-【-】-【Meta】`
+- `【2023-07】-【Meta】`
   - Prompting Large Language Models with Speech Recognition Abilities
   - [Paper](https://arxiv.org/pdf/2307.11795)
 
