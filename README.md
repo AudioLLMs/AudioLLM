@@ -10,6 +10,8 @@
 - [Adversarial Attacks](#adversarial-attacks)
 
 ## Introduction
+AudioLLM: Audio Large Language Model which means the model can take audio inputs (speech, pure sound, music, etc.) and reason accordingly with a LLM. The output can be multimodality (e.g. text only, speech only, speech+text).
+
 This repository is a curated collection of research papers focused on the development, implementation, and evaluation of language models for audio data. Our goal is to provide researchers and practitioners with a comprehensive resource to explore the latest advancements in AudioLLMs. Contributions and suggestions for new papers are highly encouraged!
 
 ---
